@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Vinicius Pato</h1>
-<h3 align="center">Frontend student looking for opportunities</h3>
+<h1 align="center">OI 👋,Me Chamo Vinicius Pato</h1>
+<h3 align="center">Sou estudante de Ti focando em desenvolvimento frontend e estou em busca de oportunidades</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Patovini](https://github.com/Patovini)
+- 👨‍💻 Meus projetos estão : [https://github.com/Patovini](https://github.com/Patovini)
 
-- 📫 How to reach me **https://www.linkedin.com/in/vinicius-pato/**
+- 📫 Como entrar em contato comigo: **https://www.linkedin.com/in/vinicius-pato/**
 
 
 <h3 align="left">Languages and Tools:</h3>
