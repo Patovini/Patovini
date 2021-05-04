@@ -1,6 +1,6 @@
 <h1 align="center">OI 👋,Me Chamo Vinicius Pato</h1>
 <h3 align="center">Sou estudante de Ti focando em desenvolvimento frontend e estou em busca de oportunidades</h3>
-<h3 align="center">Abaixo estou colocando algumas das linguagens que ja tive contato porem foco em Angular,JavaScript, Html e Css</h3>
+<h3 align="center">Estou colocando abaixo alguma das linguagens que ja tive contato porem foco em Angular,JavaScript, Html e Css</h3>
 
 - 👨‍💻 Meus projetos estão : [https://github.com/Patovini](https://github.com/Patovini)
 
