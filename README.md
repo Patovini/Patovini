@@ -1,6 +1,6 @@
 <h1>Vinicius Pato <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Animals%20and%20Nature/Duck.webp" alt="Books" width="35" height="35" />  </h1>
 
-**`SRE Mid-Level`**
+**`Site Reliability Engineer (SRE)`**
 
 <br>
 
@@ -13,12 +13,12 @@
          style="height: 27px;" /></a>
 
   <!-- Gmail Badge -->
-  <a href="vinicius.pato123@hotmail.com" style="text-decoration: none;">
+  <a href="mailto:vinicius.pato123@hotmail.com" style="text-decoration: none;">
     <img alt="Email" title="Send me an email" 
          src="https://custom-icon-badges.demolab.com/badge/-Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=634781" 
          style="height: 27px;" /></a>
 
-  <!-- Certifieds Repositories Badge -->
+  <!-- Certifications Repositories Badge -->
   <a href="https://drive.google.com/drive/folders/176c3hh_MiXcoENXNeFw4nyw3q_xJCMiz?usp=drive_link" style="text-decoration: none;">
     <img alt="Certified" title="See all my certificates on this google drive" 
          src="https://custom-icon-badges.demolab.com/badge/-Certifieds-282A36?style=for-the-badge&logo=pasta-logo&logoColor=white&labelColor=634781" 
@@ -32,7 +32,7 @@
          
 
 SRE with 5+ years of experience in AWS multi-account environments and Kubernetes, supporting large-scale platforms. Strong background in Terraform, observability, and cost optimization, driving reliability, scalability, and operational efficiency. Open to international opportunities.
-I'm [2x AWS Certified and 1x Azure Certified](https://www.credly.com/users/vinicius-pato.df73e0d3). 
+I'm [2x AWS Certified and 1x Azure Certified](https://www.credly.com/users/vinicius-spato). 
 
 
 ---
