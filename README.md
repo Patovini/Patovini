@@ -56,7 +56,9 @@ I'm [2x AWS Certified and 1x Azure Certified](https://www.credly.com/users/vinic
 </div>
 
 ---
-<img alt="SRE"src="https://camo.githubusercontent.com/6c1188069cef41317275766017c14d6b2edf0c88bedfc4e252b3abbe4690fa9f/68747470733a2f2f692e696d6775722e636f6d2f796b614e666b792e6a7067" />
+<p align="center">
+  <img src="https://i.imgur.com/ykaNfky.jpg" width="600"/>
+</p>
 ---
 
 <!-- Typing SVG -->
