@@ -13,7 +13,7 @@
          style="height: 27px;" /></a>
 
   <!-- Gmail Badge -->
-  <a href="mailto:vinicius.pato123@hotmail.com" style="text-decoration: none;">
+  <a href="vinicius.pato123@hotmail.com" style="text-decoration: none;">
     <img alt="Email" title="Send me an email" 
          src="https://custom-icon-badges.demolab.com/badge/-Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=634781" 
          style="height: 27px;" /></a>
@@ -31,7 +31,7 @@
          style="height: 27px;" /></a>
          
 
-Professional with 5 years of experience in Site Reliability Engineering (SRE) and DevOps. Currently pursuing a postgraduate degree in Site Reliability Engineering at PUC Minas, I focus on increasing resilience, reducing toil, promoting continuous improvement, and ensuring operational efficiency at scale.
+SRE with 5+ years of experience in AWS multi-account environments and Kubernetes, supporting large-scale platforms. Strong background in Terraform, observability, and cost optimization, driving reliability, scalability, and operational efficiency. Open to international opportunities.
 I'm [2x AWS Certified and 1x Azure Certified](https://www.credly.com/users/vinicius-pato.df73e0d3). 
 
 
@@ -55,6 +55,8 @@ I'm [2x AWS Certified and 1x Azure Certified](https://www.credly.com/users/vinic
   <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" /> 
 </div>
 
+---
+<img alt="SRE"src="https://camo.githubusercontent.com/6c1188069cef41317275766017c14d6b2edf0c88bedfc4e252b3abbe4690fa9f/68747470733a2f2f692e696d6775722e636f6d2f796b614e666b792e6a7067" />
 ---
 
 <!-- Typing SVG -->
