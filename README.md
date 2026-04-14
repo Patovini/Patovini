@@ -34,6 +34,9 @@
 SRE with 5+ years of experience in AWS multi-account environments and Kubernetes, supporting large-scale platforms. Strong background in Terraform, observability, and cost optimization, driving reliability, scalability, and operational efficiency. Open to international opportunities.
 I'm [2x AWS Certified and 1x Azure Certified](https://www.credly.com/users/vinicius-spato). 
 
+<p align="center">
+  <img src="https://i.imgur.com/ykaNfky.jpg" width="600"/>
+</p>
 
 ---
 
@@ -55,10 +58,8 @@ I'm [2x AWS Certified and 1x Azure Certified](https://www.credly.com/users/vinic
   <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" /> 
 </div>
 
----
-<p align="center">
-  <img src="https://i.imgur.com/ykaNfky.jpg" width="600"/>
-</p>
+
+
 <!-- asda 
 <p align="center">
   <a href="https://git.io/typing-svg">
