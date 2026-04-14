@@ -59,9 +59,7 @@ I'm [2x AWS Certified and 1x Azure Certified](https://www.credly.com/users/vinic
 <p align="center">
   <img src="https://i.imgur.com/ykaNfky.jpg" width="600"/>
 </p>
----
-
-<!-- Typing SVG -->
+<!-- asda 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
@@ -70,11 +68,11 @@ I'm [2x AWS Certified and 1x Azure Certified](https://www.credly.com/users/vinic
     />
   </a>
 </p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
 </picture>
+ -->
 
 
